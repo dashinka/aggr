@@ -1,1 +1,0 @@
-Laravel based Project with Voyager Admin installed
